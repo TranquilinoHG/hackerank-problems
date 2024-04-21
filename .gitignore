@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 
 *.exe
+c++/.vscode/tasks.json
+.gitignore
+.gitignore
